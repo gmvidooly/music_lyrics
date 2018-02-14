@@ -1,1 +1,4 @@
 *.pyc
+urlib3/*
+requests/*
+bs4/*
